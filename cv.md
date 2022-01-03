@@ -1,8 +1,8 @@
 # **Alena Damashevich**
 ## Contacts:
 * E-mail:
-    - elenushka_@mail.ru
-    - elena_tomilo@mail.ru
+    - elenushka_@mail.ru;
+    - elena_tomilo@mail.ru.
 * Telegram:* Alena_Damashevich
 * Phone:* +375291031316
 ### Education:
